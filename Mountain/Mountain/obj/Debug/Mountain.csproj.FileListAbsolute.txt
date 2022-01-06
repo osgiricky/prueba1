@@ -1,0 +1,6 @@
+C:\Personal\EASE SOLUTION\Mountain\Mountain\Mountain\bin\Debug\Mountain.exe.config
+C:\Personal\EASE SOLUTION\Mountain\Mountain\Mountain\bin\Debug\Mountain.exe
+C:\Personal\EASE SOLUTION\Mountain\Mountain\Mountain\bin\Debug\Mountain.pdb
+C:\Personal\EASE SOLUTION\Mountain\Mountain\Mountain\obj\Debug\Mountain.csprojResolveAssemblyReference.cache
+C:\Personal\EASE SOLUTION\Mountain\Mountain\Mountain\obj\Debug\Mountain.exe
+C:\Personal\EASE SOLUTION\Mountain\Mountain\Mountain\obj\Debug\Mountain.pdb
